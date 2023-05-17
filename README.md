@@ -56,12 +56,12 @@ This dummy application showcases UI testing using [Cypress](https://github.com/c
 - [ ] Backend Development with Node.js and Express:
   - [ ] Set up a new Node.js project.
   - [ ] Install Express.js as the web application framework.
-  - [ ] Set up the MySQL database connection.
+  - [ ] Set up the SQLite database connection.
   - [ ] Implement the RESTful API endpoints for user authentication and task management using Express.js.
   - [ ] Integrate JWT for user authentication and authorization.
 
-- [ ] Database Setup with MySQL:
-  - [ ] Set up a MySQL database to store user accounts and tasks.
+- [ ] Database Setup with SQLite:
+  - [ ] Create a new SQLite database file.
   - [ ] Define the necessary tables and relationships to support user authentication and task management.
 
 - [ ] Frontend Development with Vue.js:
